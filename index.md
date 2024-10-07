@@ -10,7 +10,7 @@ header:
       url: "/sample/"
 excerpt: " "
 intro:
-  - excerpt: ""
+  - Name : Jingun Koh: ""
 ---
 
 {% include feature_row id="intro" type="center" %}

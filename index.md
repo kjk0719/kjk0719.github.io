@@ -1,5 +1,5 @@
 ---
-title: "MyTitle."
+title: "TEST"
 layout: splash
 header:
   overlay_color: "#fff"
@@ -10,7 +10,7 @@ header:
       url: "/sample/"
 excerpt: " "
 intro:
-  - excerpt: ""
+  - Name : Jingun Koh: ""
 ---
 
 {% include feature_row id="intro" type="center" %}
